@@ -1,0 +1,992 @@
+[
+  {
+    "row_num": 2800,
+    "word": "universe",
+    "level": "B1",
+    "sentences": [
+      "The universe contains billions of galaxies and stars.",
+      "Scientists study the universe to understand our origins.",
+      "Our planet is just a small part of the universe."
+    ]
+  },
+  {
+    "row_num": 2801,
+    "word": "snatch",
+    "level": "B2",
+    "sentences": [
+      "The thief tried to snatch her purse at the station.",
+      "He managed to snatch a few hours of sleep.",
+      "The goalkeeper made a quick snatch of the ball."
+    ]
+  },
+  {
+    "row_num": 2802,
+    "word": "swim",
+    "level": "A1",
+    "sentences": [
+      "I swim in the pool every morning.",
+      "Can you swim without a life jacket?",
+      "Fish swim in the water all day."
+    ]
+  },
+  {
+    "row_num": 2803,
+    "word": "ridge",
+    "level": "B2",
+    "sentences": [
+      "The mountain ridge offered spectacular views of the valley.",
+      "We hiked along the rocky ridge for three hours.",
+      "A narrow ridge connected the two peaks together."
+    ]
+  },
+  {
+    "row_num": 2804,
+    "word": "abode",
+    "level": "C1",
+    "sentences": [
+      "The cottage was her humble abode for many years.",
+      "They established their abode in the countryside after retirement.",
+      "The ancient castle served as the king's principal abode."
+    ]
+  },
+  {
+    "row_num": 2805,
+    "word": "injury",
+    "level": "B1",
+    "sentences": [
+      "The player suffered a serious injury during the match.",
+      "She recovered from her injury after several weeks.",
+      "Safety equipment helps prevent injury at work."
+    ]
+  },
+  {
+    "row_num": 2806,
+    "word": "receipt",
+    "level": "B1",
+    "sentences": [
+      "Please keep your receipt in case you need a refund.",
+      "The shop assistant gave me a receipt for my purchase.",
+      "I need the receipt to claim this on expenses."
+    ]
+  },
+  {
+    "row_num": 2807,
+    "word": "fetch",
+    "level": "A2",
+    "sentences": [
+      "Can you fetch me a glass of water?",
+      "The dog loves to fetch the ball in the park.",
+      "I'll fetch my coat from the other room."
+    ]
+  },
+  {
+    "row_num": 2808,
+    "word": "sore",
+    "level": "A2",
+    "sentences": [
+      "My legs are sore after yesterday's workout.",
+      "She has a sore throat and can't talk much.",
+      "His muscles felt sore from carrying heavy boxes."
+    ]
+  },
+  {
+    "row_num": 2809,
+    "word": "discipline",
+    "level": "B2",
+    "sentences": [
+      "Learning a language requires patience and discipline.",
+      "The teacher struggled to maintain discipline in the classroom.",
+      "Physics is a scientific discipline that studies matter."
+    ]
+  },
+  {
+    "row_num": 2810,
+    "word": "pot",
+    "level": "A1",
+    "sentences": [
+      "She put the pot on the stove to cook.",
+      "The plant grows well in this clay pot.",
+      "I need a bigger pot for making soup."
+    ]
+  },
+  {
+    "row_num": 2811,
+    "word": "introduction",
+    "level": "A2",
+    "sentences": [
+      "The book's introduction explains the author's main ideas.",
+      "After a brief introduction, the speaker began her talk.",
+      "This course provides an introduction to computer programming."
+    ]
+  },
+  {
+    "row_num": 2812,
+    "word": "disguise",
+    "level": "B2",
+    "sentences": [
+      "The spy wore a disguise to avoid being recognized.",
+      "She tried to disguise her disappointment with a smile.",
+      "The detective entered the building in disguise."
+    ]
+  },
+  {
+    "row_num": 2813,
+    "word": "wilderness",
+    "level": "B2",
+    "sentences": [
+      "They trekked through the wilderness for several days.",
+      "The national park protects vast areas of pristine wilderness.",
+      "Few people have explored this remote wilderness region."
+    ]
+  },
+  {
+    "row_num": 2814,
+    "word": "dismiss",
+    "level": "B1",
+    "sentences": [
+      "The judge decided to dismiss the case completely.",
+      "Don't dismiss his ideas without considering them first.",
+      "The company had to dismiss several employees last month."
+    ]
+  },
+  {
+    "row_num": 2815,
+    "word": "revolution",
+    "level": "B2",
+    "sentences": [
+      "The French Revolution changed the course of European history.",
+      "The digital revolution has transformed how we communicate.",
+      "The planet completes one revolution around the sun yearly."
+    ]
+  },
+  {
+    "row_num": 2816,
+    "word": "silently",
+    "level": "A2",
+    "sentences": [
+      "She moved silently through the dark room.",
+      "The cat crept silently toward the mouse.",
+      "He sat silently, thinking about the problem."
+    ]
+  },
+  {
+    "row_num": 2817,
+    "word": "wept",
+    "level": "B1",
+    "sentences": [
+      "She wept tears of joy at the wedding.",
+      "He wept when he heard the sad news.",
+      "The mother wept as her son left for war."
+    ]
+  },
+  {
+    "row_num": 2818,
+    "word": "behalf",
+    "level": "B2",
+    "sentences": [
+      "I'm calling on behalf of the company director.",
+      "She accepted the award on behalf of her team.",
+      "The lawyer spoke on behalf of his client."
+    ]
+  },
+  {
+    "row_num": 2819,
+    "word": "cave",
+    "level": "A2",
+    "sentences": [
+      "The explorers discovered a huge underground cave.",
+      "A bear may sleep in a cave during winter.",
+      "Ancient people painted pictures on cave walls."
+    ]
+  },
+  {
+    "row_num": 2820,
+    "word": "uncertain",
+    "level": "B1",
+    "sentences": [
+      "We are still uncertain about the final decision.",
+      "The weather forecast for tomorrow remains uncertain.",
+      "She felt uncertain about her career choices."
+    ]
+  },
+  {
+    "row_num": 2821,
+    "word": "exquisite",
+    "level": "C1",
+    "sentences": [
+      "The restaurant served exquisite French cuisine.",
+      "She wore an exquisite silk gown to the gala.",
+      "The painting displayed exquisite attention to detail."
+    ]
+  },
+  {
+    "row_num": 2822,
+    "word": "engagement",
+    "level": "B1",
+    "sentences": [
+      "They announced their engagement at the family dinner.",
+      "Student engagement is essential for effective learning.",
+      "The diplomat had an important engagement this afternoon."
+    ]
+  },
+  {
+    "row_num": 2823,
+    "word": "platform",
+    "level": "A2",
+    "sentences": [
+      "Wait for the train on platform number three.",
+      "She uses this platform to share her videos online.",
+      "The speaker stood on the platform to address everyone."
+    ]
+  },
+  {
+    "row_num": 2824,
+    "word": "admirable",
+    "level": "B2",
+    "sentences": [
+      "His dedication to helping others is truly admirable.",
+      "She showed admirable courage during the difficult situation.",
+      "The team made an admirable effort despite limited resources."
+    ]
+  },
+  {
+    "row_num": 2825,
+    "word": "grieve",
+    "level": "B2",
+    "sentences": [
+      "The family continued to grieve their terrible loss.",
+      "It's natural to grieve when someone close dies.",
+      "She needed time to grieve after her mother passed."
+    ]
+  },
+  {
+    "row_num": 2826,
+    "word": "mischief",
+    "level": "B2",
+    "sentences": [
+      "The children were always getting into mischief together.",
+      "His eyes sparkled with mischief as he planned the prank.",
+      "The twins caused a lot of mischief at school."
+    ]
+  },
+  {
+    "row_num": 2827,
+    "word": "physician",
+    "level": "B2",
+    "sentences": [
+      "The physician examined the patient and prescribed medication.",
+      "She trained for years to become a skilled physician.",
+      "The physician recommended regular exercise and healthy eating."
+    ]
+  },
+  {
+    "row_num": 2828,
+    "word": "situate",
+    "level": "B2",
+    "sentences": [
+      "We need to situate this problem within its context.",
+      "The architect decided to situate the house on higher ground.",
+      "They will situate the new building near the river."
+    ]
+  },
+  {
+    "row_num": 2829,
+    "word": "he'll",
+    "level": "A1",
+    "sentences": [
+      "He'll arrive at the office by nine o'clock.",
+      "Don't worry, he'll help you with your homework.",
+      "He'll be very happy to see you again."
+    ]
+  },
+  {
+    "row_num": 2830,
+    "word": "sincere",
+    "level": "B1",
+    "sentences": [
+      "Please accept my sincere apologies for the mistake.",
+      "She gave him a sincere smile of appreciation.",
+      "His interest in art seemed completely sincere."
+    ]
+  },
+  {
+    "row_num": 2831,
+    "word": "tradition",
+    "level": "B1",
+    "sentences": [
+      "Eating turkey at Christmas is a family tradition.",
+      "The village maintains an ancient tradition every spring.",
+      "Breaking tradition, they decided to get married outdoors."
+    ]
+  },
+  {
+    "row_num": 2832,
+    "word": "gravely",
+    "level": "B2",
+    "sentences": [
+      "The doctor looked at her gravely before delivering news.",
+      "He spoke gravely about the serious environmental crisis.",
+      "The situation has been gravely misunderstood by many people."
+    ]
+  },
+  {
+    "row_num": 2833,
+    "word": "gallant",
+    "level": "B2",
+    "sentences": [
+      "The soldier made a gallant effort to rescue his comrades.",
+      "He made a gallant attempt despite facing overwhelming odds.",
+      "The knight's gallant behavior impressed everyone at court."
+    ]
+  },
+  {
+    "row_num": 2834,
+    "word": "sensation",
+    "level": "B1",
+    "sentences": [
+      "I felt a strange tingling sensation in my fingers.",
+      "The new restaurant became an overnight sensation in town.",
+      "The cold water caused a shocking sensation on my skin."
+    ]
+  },
+  {
+    "row_num": 2835,
+    "word": "lower",
+    "level": "A2",
+    "sentences": [
+      "Please lower your voice in the library.",
+      "The government plans to lower taxes next year.",
+      "He lives on the lower floor of the building."
+    ]
+  },
+  {
+    "row_num": 2836,
+    "word": "tragedy",
+    "level": "B2",
+    "sentences": [
+      "The plane crash was a terrible tragedy for everyone.",
+      "Hamlet is Shakespeare's most famous tragedy ever written.",
+      "The family struggled to cope with the tragedy."
+    ]
+  },
+  {
+    "row_num": 2837,
+    "word": "specific",
+    "level": "B1",
+    "sentences": [
+      "Can you give me a specific example of the problem?",
+      "Each species has specific needs for survival.",
+      "The instructions were very specific and easy to follow."
+    ]
+  },
+  {
+    "row_num": 2838,
+    "word": "entity",
+    "level": "C1",
+    "sentences": [
+      "The company operates as a separate legal entity.",
+      "Each department functions as an autonomous entity within the organization.",
+      "The government recognized the tribe as a distinct cultural entity."
+    ]
+  },
+  {
+    "row_num": 2839,
+    "word": "inn",
+    "level": "B2",
+    "sentences": [
+      "We stayed at a charming country inn overnight.",
+      "The old inn has been serving travelers for centuries.",
+      "They stopped at the inn for food and rest."
+    ]
+  },
+  {
+    "row_num": 2840,
+    "word": "stiff",
+    "level": "B1",
+    "sentences": [
+      "My neck feels stiff after sleeping badly last night.",
+      "The door handle was stiff and difficult to turn.",
+      "Beat the egg whites until they form stiff peaks."
+    ]
+  },
+  {
+    "row_num": 2841,
+    "word": "score",
+    "level": "A2",
+    "sentences": [
+      "What was the final score of the match?",
+      "She managed to score high marks in all exams.",
+      "The home team failed to score any goals today."
+    ]
+  },
+  {
+    "row_num": 2842,
+    "word": "virgin",
+    "level": "B2",
+    "sentences": [
+      "The expedition explored virgin territory never seen before.",
+      "They harvested olives to produce extra virgin olive oil.",
+      "The forest remained virgin and untouched by human development."
+    ]
+  },
+  {
+    "row_num": 2843,
+    "word": "farewell",
+    "level": "B1",
+    "sentences": [
+      "We said farewell to our friends at the airport.",
+      "The company held a farewell party for the retiring manager.",
+      "She waved farewell as the train pulled away slowly."
+    ]
+  },
+  {
+    "row_num": 2844,
+    "word": "muscle",
+    "level": "A2",
+    "sentences": [
+      "Exercise helps build muscle in your body.",
+      "He pulled a muscle while lifting heavy weights.",
+      "The heart is an important muscle that pumps blood."
+    ]
+  },
+  {
+    "row_num": 2845,
+    "word": "paradise",
+    "level": "B2",
+    "sentences": [
+      "The tropical island seemed like paradise on earth.",
+      "For book lovers, the library was an absolute paradise.",
+      "Many religions describe paradise as a place of peace."
+    ]
+  },
+  {
+    "row_num": 2846,
+    "word": "behave",
+    "level": "A2",
+    "sentences": [
+      "The children promised to behave well at school.",
+      "You should behave politely when meeting new people.",
+      "The dog doesn't behave properly without training."
+    ]
+  },
+  {
+    "row_num": 2847,
+    "word": "hunger",
+    "level": "A2",
+    "sentences": [
+      "Many people in the world suffer from hunger daily.",
+      "I felt real hunger after skipping breakfast completely.",
+      "The charity works to eliminate hunger in poor countries."
+    ]
+  },
+  {
+    "row_num": 2848,
+    "word": "lecture",
+    "level": "B1",
+    "sentences": [
+      "The professor gave an interesting lecture about climate change.",
+      "Each lecture during the semester lasts two hours.",
+      "My parents always lecture me about doing my homework."
+    ]
+  },
+  {
+    "row_num": 2849,
+    "word": "ally",
+    "level": "B2",
+    "sentences": [
+      "France has been a close ally of Britain for decades.",
+      "The two countries formed an ally to fight common threats.",
+      "She proved to be a valuable ally in negotiations."
+    ]
+  },
+  {
+    "row_num": 2850,
+    "word": "favorite",
+    "level": "A2",
+    "sentences": [
+      "Pizza is my favorite food of all time.",
+      "What's your favorite movie that you've ever seen?",
+      "Blue is her favorite color for decorating rooms."
+    ]
+  },
+  {
+    "row_num": 2851,
+    "word": "criticism",
+    "level": "B1",
+    "sentences": [
+      "The mayor faced harsh criticism for his recent decision.",
+      "She accepted the criticism and improved her work significantly.",
+      "Constructive criticism helps us learn from our mistakes."
+    ]
+  },
+  {
+    "row_num": 2852,
+    "word": "proprietary",
+    "level": "C1",
+    "sentences": [
+      "The company developed proprietary technology for manufacturing semiconductors.",
+      "They refused to share their proprietary research findings publicly.",
+      "The software uses a proprietary algorithm that cannot be replicated."
+    ]
+  },
+  {
+    "row_num": 2853,
+    "word": "beach",
+    "level": "A2",
+    "sentences": [
+      "We spent the whole day relaxing at the beach.",
+      "Children love building sandcastles on the beach.",
+      "The beach was crowded with tourists last summer."
+    ]
+  },
+  {
+    "row_num": 2854,
+    "word": "cotton",
+    "level": "A2",
+    "sentences": [
+      "This shirt is made from pure cotton fabric.",
+      "Cotton plants grow well in warm, sunny climates.",
+      "She prefers cotton sheets because they're very comfortable."
+    ]
+  },
+  {
+    "row_num": 2855,
+    "word": "hospital",
+    "level": "A1",
+    "sentences": [
+      "My sister works at the hospital as a nurse.",
+      "He had to stay in hospital for two weeks.",
+      "The new hospital will open next month."
+    ]
+  },
+  {
+    "row_num": 2856,
+    "word": "outward",
+    "level": "B2",
+    "sentences": [
+      "Despite his outward calm, he felt extremely nervous inside.",
+      "The doors open outward rather than inward for safety.",
+      "Her outward appearance gave no hint of her troubles."
+    ]
+  },
+  {
+    "row_num": 2857,
+    "word": "strip",
+    "level": "B1",
+    "sentences": [
+      "They had to strip the old paint off the walls.",
+      "The Gaza Strip is a densely populated coastal region.",
+      "Cut the paper into one long, narrow strip."
+    ]
+  },
+  {
+    "row_num": 2858,
+    "word": "ward",
+    "level": "B1",
+    "sentences": [
+      "The patient was moved to the intensive care ward.",
+      "She became a ward of the state after losing parents.",
+      "The hospital opened a new children's ward last year."
+    ]
+  },
+  {
+    "row_num": 2859,
+    "word": "rent",
+    "level": "B1",
+    "sentences": [
+      "The rent for this apartment is very expensive monthly.",
+      "We decided to rent a car for the weekend trip.",
+      "They can't afford to pay such high rent anymore."
+    ]
+  },
+  {
+    "row_num": 2860,
+    "word": "prey",
+    "level": "B2",
+    "sentences": [
+      "The lion stalked its prey across the open plain.",
+      "Small fish often fall prey to larger predators.",
+      "The owl hunts for prey during the night hours."
+    ]
+  },
+  {
+    "row_num": 2861,
+    "word": "revenue",
+    "level": "B2",
+    "sentences": [
+      "The company's revenue increased by twenty percent this year.",
+      "Tourism provides significant revenue for the local economy.",
+      "Tax revenue helps fund essential public services."
+    ]
+  },
+  {
+    "row_num": 2862,
+    "word": "assent",
+    "level": "C1",
+    "sentences": [
+      "The proposal received unanimous assent from all board members.",
+      "She nodded her head in silent assent to the plan.",
+      "Royal assent is required before the bill becomes law."
+    ]
+  },
+  {
+    "row_num": 2863,
+    "word": "musical",
+    "level": "A2",
+    "sentences": [
+      "We went to see a musical at the theater.",
+      "She has a natural musical talent for playing instruments.",
+      "The birds created a beautiful musical sound at dawn."
+    ]
+  },
+  {
+    "row_num": 2864,
+    "word": "satisfactory",
+    "level": "B1",
+    "sentences": [
+      "The results of the inspection were completely satisfactory.",
+      "Her performance at work has been less than satisfactory.",
+      "We need to reach a satisfactory agreement for everyone."
+    ]
+  },
+  {
+    "row_num": 2865,
+    "word": "ridiculous",
+    "level": "B1",
+    "sentences": [
+      "That's a ridiculous idea that makes no sense at all.",
+      "The prices at this restaurant are absolutely ridiculous.",
+      "He looked ridiculous wearing that enormous hat."
+    ]
+  },
+  {
+    "row_num": 2866,
+    "word": "exceed",
+    "level": "B2",
+    "sentences": [
+      "Sales this quarter exceed our original expectations significantly.",
+      "Do not exceed the recommended daily dose of medicine.",
+      "The building costs may exceed the approved budget."
+    ]
+  },
+  {
+    "row_num": 2867,
+    "word": "disgrace",
+    "level": "B2",
+    "sentences": [
+      "His behavior at the event was a complete disgrace.",
+      "The politician resigned in disgrace after the scandal.",
+      "It's a disgrace that children still go hungry today."
+    ]
+  },
+  {
+    "row_num": 2868,
+    "word": "shouldn't",
+    "level": "A1",
+    "sentences": [
+      "You shouldn't eat too much candy before dinner.",
+      "We shouldn't be late for the meeting today.",
+      "She shouldn't drive if she's feeling very tired."
+    ]
+  },
+  {
+    "row_num": 2869,
+    "word": "originally",
+    "level": "B1",
+    "sentences": [
+      "The building was originally constructed as a factory.",
+      "She originally planned to study medicine at university.",
+      "This tradition originally came from ancient Roman culture."
+    ]
+  },
+  {
+    "row_num": 2870,
+    "word": "Samuel",
+    "level": "A1",
+    "sentences": [
+      "Samuel is my best friend from school.",
+      "Have you met Samuel, the new teacher?",
+      "Samuel went to the store this morning."
+    ]
+  },
+  {
+    "row_num": 2871,
+    "word": "papa",
+    "level": "A1",
+    "sentences": [
+      "My little sister calls our father papa.",
+      "Papa reads me a story every night.",
+      "Where is papa going this afternoon?"
+    ]
+  },
+  {
+    "row_num": 2872,
+    "word": "gas",
+    "level": "A1",
+    "sentences": [
+      "We need to buy gas for the car.",
+      "The stove uses natural gas for cooking.",
+      "Gas prices have increased a lot this year."
+    ]
+  },
+  {
+    "row_num": 2873,
+    "word": "inevitable",
+    "level": "B2",
+    "sentences": [
+      "Change is inevitable in any growing organization.",
+      "It seems inevitable that technology will replace many jobs.",
+      "The team's defeat was inevitable after their star player left."
+    ]
+  },
+  {
+    "row_num": 2874,
+    "word": "extensive",
+    "level": "B2",
+    "sentences": [
+      "The fire caused extensive damage to the entire building.",
+      "She has extensive experience in international business management.",
+      "The museum houses an extensive collection of ancient artifacts."
+    ]
+  },
+  {
+    "row_num": 2875,
+    "word": "leisure",
+    "level": "B1",
+    "sentences": [
+      "I enjoy reading books during my leisure time.",
+      "The hotel offers excellent leisure facilities for guests.",
+      "Many people travel for leisure during summer vacations."
+    ]
+  },
+  {
+    "row_num": 2876,
+    "word": "deadly",
+    "level": "B1",
+    "sentences": [
+      "Some snakes have deadly venom that can kill quickly.",
+      "The disease proved deadly for thousands of people.",
+      "Carbon monoxide is a deadly gas without smell."
+    ]
+  },
+  {
+    "row_num": 2877,
+    "word": "chin",
+    "level": "A2",
+    "sentences": [
+      "He rested his chin on his hand thoughtfully.",
+      "She has a small scar on her chin.",
+      "The baby's chin was covered in food."
+    ]
+  },
+  {
+    "row_num": 2878,
+    "word": "leaf",
+    "level": "A2",
+    "sentences": [
+      "A single leaf fell from the tree.",
+      "The leaf turned yellow in the autumn.",
+      "She pressed the leaf carefully in her book."
+    ]
+  },
+  {
+    "row_num": 2879,
+    "word": "jealousy",
+    "level": "B2",
+    "sentences": [
+      "Her success aroused jealousy among some colleagues.",
+      "Jealousy can destroy even the strongest relationships.",
+      "He couldn't hide his jealousy when she won the award."
+    ]
+  },
+  {
+    "row_num": 2880,
+    "word": "publication",
+    "level": "B1",
+    "sentences": [
+      "The research findings are ready for publication soon.",
+      "This magazine is a monthly publication about science.",
+      "The publication of his book caused considerable controversy."
+    ]
+  },
+  {
+    "row_num": 2881,
+    "word": "Englishman",
+    "level": "A2",
+    "sentences": [
+      "An Englishman sat next to me on the train.",
+      "The old Englishman spoke with a strong accent.",
+      "My grandfather was an Englishman from London."
+    ]
+  },
+  {
+    "row_num": 2882,
+    "word": "Allah",
+    "level": "B2",
+    "sentences": [
+      "Muslims believe Allah is the one true God.",
+      "They prayed to Allah five times each day.",
+      "The mosque is a place to worship Allah."
+    ]
+  },
+  {
+    "row_num": 2883,
+    "word": "Jones",
+    "level": "A1",
+    "sentences": [
+      "Mr. Jones is my math teacher this year.",
+      "Have you seen Jones anywhere around here?",
+      "Jones lives in the house next door."
+    ]
+  },
+  {
+    "row_num": 2884,
+    "word": "hostile",
+    "level": "B2",
+    "sentences": [
+      "The crowd became increasingly hostile toward the speaker.",
+      "They encountered a hostile environment in the frozen wasteland.",
+      "His hostile attitude made cooperation almost impossible."
+    ]
+  },
+  {
+    "row_num": 2885,
+    "word": "regulate",
+    "level": "B2",
+    "sentences": [
+      "The government needs to regulate the financial industry better.",
+      "This device helps regulate your body temperature automatically.",
+      "New laws will regulate how companies handle personal data."
+    ]
+  },
+  {
+    "row_num": 2886,
+    "word": "drift",
+    "level": "B1",
+    "sentences": [
+      "The boat began to drift away from the shore.",
+      "Snow started to drift against the windows overnight.",
+      "His thoughts began to drift during the long meeting."
+    ]
+  },
+  {
+    "row_num": 2887,
+    "word": "fur",
+    "level": "A2",
+    "sentences": [
+      "The cat has soft, gray fur all over.",
+      "She wore a coat with a fur collar.",
+      "Polar bears have thick fur to stay warm."
+    ]
+  },
+  {
+    "row_num": 2888,
+    "word": "procession",
+    "level": "B2",
+    "sentences": [
+      "The funeral procession moved slowly through the streets.",
+      "A long procession of cars followed the wedding couple.",
+      "The royal procession attracted thousands of spectators."
+    ]
+  },
+  {
+    "row_num": 2889,
+    "word": "hunter",
+    "level": "A2",
+    "sentences": [
+      "The hunter tracked the deer through the forest.",
+      "The lion is a skilled hunter in Africa.",
+      "He works as a professional hunter and guide."
+    ]
+  },
+  {
+    "row_num": 2890,
+    "word": "monument",
+    "level": "B1",
+    "sentences": [
+      "The Washington Monument is a famous landmark in America.",
+      "They built a monument to honor the fallen soldiers.",
+      "This ancient monument attracts millions of visitors yearly."
+    ]
+  },
+  {
+    "row_num": 2891,
+    "word": "Pierre",
+    "level": "A1",
+    "sentences": [
+      "Pierre is visiting from France next week.",
+      "Have you met my friend Pierre before?",
+      "Pierre studied engineering at the university."
+    ]
+  },
+  {
+    "row_num": 2892,
+    "word": "mail",
+    "level": "A1",
+    "sentences": [
+      "I check my mail every morning before work.",
+      "Can you mail this letter for me today?",
+      "The mail usually arrives around noon here."
+    ]
+  },
+  {
+    "row_num": 2893,
+    "word": "sunk",
+    "level": "A2",
+    "sentences": [
+      "The ship sunk during the terrible storm.",
+      "My heart sunk when I heard the news.",
+      "The treasure had sunk to the ocean floor."
+    ]
+  },
+  {
+    "row_num": 2894,
+    "word": "eastern",
+    "level": "A2",
+    "sentences": [
+      "The sun rises in the eastern sky each morning.",
+      "She lives in the eastern part of the city.",
+      "Eastern cultures have many fascinating traditions."
+    ]
+  },
+  {
+    "row_num": 2895,
+    "word": "compress",
+    "level": "B2",
+    "sentences": [
+      "You need to compress the file before sending it.",
+      "The machine will compress the cardboard into small bales.",
+      "Ice helps compress swelling after an injury."
+    ]
+  },
+  {
+    "row_num": 2896,
+    "word": "illustrate",
+    "level": "B1",
+    "sentences": [
+      "These examples illustrate the main problem we're facing.",
+      "The artist will illustrate the children's book beautifully.",
+      "Let me illustrate my point with a simple diagram."
+    ]
+  },
+  {
+    "row_num": 2897,
+    "word": "funeral",
+    "level": "B2",
+    "sentences": [
+      "The funeral service will take place on Saturday afternoon.",
+      "Many people attended the funeral to pay their respects.",
+      "She wore black clothes to the funeral ceremony."
+    ]
+  },
+  {
+    "row_num": 2898,
+    "word": "flour",
+    "level": "A2",
+    "sentences": [
+      "Add two cups of flour to the mixing bowl.",
+      "Flour is the main ingredient in bread baking.",
+      "She bought wheat flour from the grocery store."
+    ]
+  }
+]

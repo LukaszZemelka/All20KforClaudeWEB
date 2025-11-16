@@ -1,0 +1,802 @@
+[
+  {
+    "row_num": 18,
+    "word": "on",
+    "level": "A1",
+    "sentences": [
+      "The cat is sleeping on the soft bed.",
+      "Turn on the lights, please.",
+      "We have a test on Monday morning."
+    ]
+  },
+  {
+    "row_num": 19,
+    "word": "at",
+    "level": "A1",
+    "sentences": [
+      "She is waiting at the door now.",
+      "Look at that beautiful bird in the tree.",
+      "He is good at speaking English."
+    ]
+  },
+  {
+    "row_num": 20,
+    "word": "by",
+    "level": "A2",
+    "sentences": [
+      "This book was written by my favorite author.",
+      "Please send your homework by Friday afternoon.",
+      "She likes to sit by the window."
+    ]
+  },
+  {
+    "row_num": 21,
+    "word": "have",
+    "level": "A1",
+    "sentences": [
+      "I have two sisters and one brother.",
+      "Do you have any questions about this?",
+      "They have lived here for ten years."
+    ]
+  },
+  {
+    "row_num": 22,
+    "word": "which",
+    "level": "A2",
+    "sentences": [
+      "Which color do you prefer, blue or green?",
+      "She bought a car which uses less fuel.",
+      "I don't know which route is faster."
+    ]
+  },
+  {
+    "row_num": 23,
+    "word": "or",
+    "level": "A1",
+    "sentences": [
+      "Would you like tea or coffee today?",
+      "We can go now or wait here.",
+      "Is this your pen or mine?"
+    ]
+  },
+  {
+    "row_num": 24,
+    "word": "from",
+    "level": "A1",
+    "sentences": [
+      "She comes from a small village in Italy.",
+      "The store is open from nine to six.",
+      "I received a letter from my best friend."
+    ]
+  },
+  {
+    "row_num": 25,
+    "word": "this",
+    "level": "A1",
+    "sentences": [
+      "This is my new phone from yesterday.",
+      "I really like this song very much.",
+      "Can you help me carry this heavy box?"
+    ]
+  },
+  {
+    "row_num": 26,
+    "word": "him",
+    "level": "A1",
+    "sentences": [
+      "I gave him my phone number yesterday.",
+      "Please tell him to call me back.",
+      "She knows him from her old school."
+    ]
+  },
+  {
+    "row_num": 27,
+    "word": "but",
+    "level": "A1",
+    "sentences": [
+      "I like pizza but not pasta much.",
+      "She is young but very smart already.",
+      "He called me but I was out."
+    ]
+  },
+  {
+    "row_num": 28,
+    "word": "all",
+    "level": "A1",
+    "sentences": [
+      "All the students passed the test successfully.",
+      "She ate all the cookies in minutes.",
+      "We all love to play soccer together."
+    ]
+  },
+  {
+    "row_num": 29,
+    "word": "she",
+    "level": "A1",
+    "sentences": [
+      "She is my best friend from school.",
+      "Is she coming to the party tonight?",
+      "She works at the local hospital nearby."
+    ]
+  },
+  {
+    "row_num": 30,
+    "word": "they",
+    "level": "A1",
+    "sentences": [
+      "They are playing in the park now.",
+      "Are they your new neighbors from Japan?",
+      "They always help me with my homework."
+    ]
+  },
+  {
+    "row_num": 31,
+    "word": "were",
+    "level": "A1",
+    "sentences": [
+      "We were at the beach last summer.",
+      "They were very happy about the news.",
+      "Where were you this morning at eight?"
+    ]
+  },
+  {
+    "row_num": 32,
+    "word": "my",
+    "level": "A1",
+    "sentences": [
+      "This is my favorite book of all.",
+      "My mother is a wonderful cook indeed.",
+      "I forgot my keys at home today."
+    ]
+  },
+  {
+    "row_num": 33,
+    "word": "are",
+    "level": "A1",
+    "sentences": [
+      "The children are playing outside right now.",
+      "Are you ready to leave for school?",
+      "These flowers are beautiful and smell nice."
+    ]
+  },
+  {
+    "row_num": 34,
+    "word": "me",
+    "level": "A1",
+    "sentences": [
+      "Can you help me with this problem?",
+      "She gave me a nice present yesterday.",
+      "Please wait for me at the corner."
+    ]
+  },
+  {
+    "row_num": 35,
+    "word": "one",
+    "level": "A1",
+    "sentences": [
+      "I have one brother and two sisters.",
+      "This is the one I really want.",
+      "One day I will visit that country."
+    ]
+  },
+  {
+    "row_num": 36,
+    "word": "their",
+    "level": "A1",
+    "sentences": [
+      "The students brought their books to class.",
+      "Their house is very big and modern.",
+      "I like their idea for the project."
+    ]
+  },
+  {
+    "row_num": 37,
+    "word": "so",
+    "level": "A1",
+    "sentences": [
+      "I was tired so I went home.",
+      "The test was so difficult for me.",
+      "She speaks so quietly I cannot hear."
+    ]
+  },
+  {
+    "row_num": 38,
+    "word": "an",
+    "level": "A1",
+    "sentences": [
+      "She wants to be an English teacher.",
+      "I need an umbrella for the rain.",
+      "He ate an apple for his breakfast."
+    ]
+  },
+  {
+    "row_num": 39,
+    "word": "said",
+    "level": "A1",
+    "sentences": [
+      "She said she would come back tomorrow.",
+      "He said goodbye and left the room.",
+      "They said the weather will be nice."
+    ]
+  },
+  {
+    "row_num": 40,
+    "word": "them",
+    "level": "A1",
+    "sentences": [
+      "I saw them at the store yesterday.",
+      "Please give them this important message today.",
+      "She knows all of them very well."
+    ]
+  },
+  {
+    "row_num": 41,
+    "word": "we",
+    "level": "A1",
+    "sentences": [
+      "We are going to the movies tonight.",
+      "Can we start the meeting now please?",
+      "We love to eat pizza every Friday."
+    ]
+  },
+  {
+    "row_num": 42,
+    "word": "who",
+    "level": "A2",
+    "sentences": [
+      "Who is that woman standing over there?",
+      "She is the teacher who helped me.",
+      "I don't know who took my pen."
+    ]
+  },
+  {
+    "row_num": 43,
+    "word": "would",
+    "level": "A2",
+    "sentences": [
+      "I would like some coffee, please.",
+      "She said she would help us tomorrow.",
+      "Would you mind closing the window for me?"
+    ]
+  },
+  {
+    "row_num": 44,
+    "word": "will",
+    "level": "A2",
+    "sentences": [
+      "I will call you tomorrow morning early.",
+      "The store will close at nine tonight.",
+      "Will you come to my birthday party?"
+    ]
+  },
+  {
+    "row_num": 45,
+    "word": "been",
+    "level": "A2",
+    "sentences": [
+      "Have you ever been to Paris before?",
+      "She has been studying English for years.",
+      "They have been friends since childhood days."
+    ]
+  },
+  {
+    "row_num": 46,
+    "word": "no",
+    "level": "A1",
+    "sentences": [
+      "There is no milk in the fridge.",
+      "No, I don't want any more food.",
+      "She has no time to help today."
+    ]
+  },
+  {
+    "row_num": 47,
+    "word": "do",
+    "level": "A1",
+    "sentences": [
+      "I do my homework every single evening.",
+      "Do you like chocolate ice cream too?",
+      "They do not speak Spanish at all."
+    ]
+  },
+  {
+    "row_num": 48,
+    "word": "there",
+    "level": "A1",
+    "sentences": [
+      "There is a cat under the table.",
+      "Please put the books over there now.",
+      "Is there any water in the bottle?"
+    ]
+  },
+  {
+    "row_num": 49,
+    "word": "when",
+    "level": "A1",
+    "sentences": [
+      "When does the movie start this evening?",
+      "Call me when you arrive at home.",
+      "I was sleeping when you called me."
+    ]
+  },
+  {
+    "row_num": 50,
+    "word": "if",
+    "level": "A1",
+    "sentences": [
+      "If it rains, we will stay inside.",
+      "I will come if I have time.",
+      "Ask me if you need any help."
+    ]
+  },
+  {
+    "row_num": 51,
+    "word": "more",
+    "level": "A1",
+    "sentences": [
+      "I need more time to finish this.",
+      "Would you like some more tea please?",
+      "She has more books than I do."
+    ]
+  },
+  {
+    "row_num": 52,
+    "word": "other",
+    "level": "A1",
+    "sentences": [
+      "The other students are in the library.",
+      "Do you have any other questions now?",
+      "I prefer the other dress to this."
+    ]
+  },
+  {
+    "row_num": 53,
+    "word": "out",
+    "level": "A1",
+    "sentences": [
+      "She went out to buy some bread.",
+      "Take the trash out before you leave.",
+      "Get out of my room right now!"
+    ]
+  },
+  {
+    "row_num": 54,
+    "word": "up",
+    "level": "A1",
+    "sentences": [
+      "I wake up at seven every morning.",
+      "The prices are going up this year.",
+      "Please pick up your toys from floor."
+    ]
+  },
+  {
+    "row_num": 55,
+    "word": "time",
+    "level": "A1",
+    "sentences": [
+      "What time does the train leave today?",
+      "I don't have time to talk now.",
+      "We had a great time at party."
+    ]
+  },
+  {
+    "row_num": 56,
+    "word": "into",
+    "level": "A1",
+    "sentences": [
+      "She walked into the room and smiled.",
+      "Put the books into the big box.",
+      "He ran into an old friend yesterday."
+    ]
+  },
+  {
+    "row_num": 57,
+    "word": "man",
+    "level": "A2",
+    "sentences": [
+      "A tall man is waiting at reception.",
+      "The old man walks slowly every morning.",
+      "That man is my uncle from Canada."
+    ]
+  },
+  {
+    "row_num": 58,
+    "word": "any",
+    "level": "A2",
+    "sentences": [
+      "Do you have any plans for weekend?",
+      "I don't want any sugar in coffee.",
+      "Is there any news about the project?"
+    ]
+  },
+  {
+    "row_num": 59,
+    "word": "your",
+    "level": "A1",
+    "sentences": [
+      "Is this your bag on the chair?",
+      "What is your name and phone number?",
+      "I really like your new haircut today."
+    ]
+  },
+  {
+    "row_num": 60,
+    "word": "what",
+    "level": "A1",
+    "sentences": [
+      "What is your favorite food to eat?",
+      "I don't know what to do now.",
+      "What time does the class start today?"
+    ]
+  },
+  {
+    "row_num": 61,
+    "word": "has",
+    "level": "A1",
+    "sentences": [
+      "She has three cats at her house.",
+      "He has been sick since last Monday.",
+      "This room has two windows and door."
+    ]
+  },
+  {
+    "row_num": 62,
+    "word": "could",
+    "level": "A2",
+    "sentences": [
+      "Could you please help me with this?",
+      "She could speak French when very young.",
+      "I could not find my keys anywhere."
+    ]
+  },
+  {
+    "row_num": 63,
+    "word": "than",
+    "level": "A2",
+    "sentences": [
+      "She is taller than her older brother.",
+      "This book is more interesting than that.",
+      "I have less money than you today."
+    ]
+  },
+  {
+    "row_num": 64,
+    "word": "our",
+    "level": "A1",
+    "sentences": [
+      "This is our new house in city.",
+      "Our teacher is very kind and helpful.",
+      "We love our dog very much indeed."
+    ]
+  },
+  {
+    "row_num": 65,
+    "word": "some",
+    "level": "A1",
+    "sentences": [
+      "Would you like some water to drink?",
+      "I need to buy some new clothes.",
+      "Some people don't like cold weather much."
+    ]
+  },
+  {
+    "row_num": 66,
+    "word": "very",
+    "level": "A1",
+    "sentences": [
+      "This coffee is very hot right now.",
+      "She is a very good student indeed.",
+      "I am very happy to see you."
+    ]
+  },
+  {
+    "row_num": 67,
+    "word": "upon",
+    "level": "A1",
+    "sentences": [
+      "Once upon a time, there was king.",
+      "The decision depends upon your final choice.",
+      "He looked upon the scene with sadness."
+    ]
+  },
+  {
+    "row_num": 68,
+    "word": "about",
+    "level": "A1",
+    "sentences": [
+      "Tell me about your summer vacation plans.",
+      "The movie is about a young hero.",
+      "I am worried about the test tomorrow."
+    ]
+  },
+  {
+    "row_num": 69,
+    "word": "may",
+    "level": "A1",
+    "sentences": [
+      "May I use your phone for moment?",
+      "It may rain later this afternoon today.",
+      "You may leave when you are ready."
+    ]
+  },
+  {
+    "row_num": 70,
+    "word": "its",
+    "level": "A1",
+    "sentences": [
+      "The dog wagged its tail with happiness.",
+      "Every country has its own unique culture.",
+      "The city is famous for its museums."
+    ]
+  },
+  {
+    "row_num": 71,
+    "word": "like",
+    "level": "A1",
+    "sentences": [
+      "I like to read books every night.",
+      "She looks like her mother very much.",
+      "Would you like some tea or coffee?"
+    ]
+  },
+  {
+    "row_num": 72,
+    "word": "great",
+    "level": "A1",
+    "sentences": [
+      "That was a great movie last night.",
+      "She is a great singer and dancer.",
+      "We had a great time at beach."
+    ]
+  },
+  {
+    "row_num": 73,
+    "word": "go",
+    "level": "A1",
+    "sentences": [
+      "I go to school by bus daily.",
+      "Let's go to the park this afternoon.",
+      "Where do you want to go today?"
+    ]
+  },
+  {
+    "row_num": 74,
+    "word": "day",
+    "level": "A1",
+    "sentences": [
+      "Today is a beautiful sunny day outside.",
+      "What day is your birthday this year?",
+      "I study English every day after school."
+    ]
+  },
+  {
+    "row_num": 75,
+    "word": "only",
+    "level": "A1",
+    "sentences": [
+      "She is the only girl in class.",
+      "I only have five dollars left now.",
+      "This shop is only open on weekends."
+    ]
+  },
+  {
+    "row_num": 76,
+    "word": "now",
+    "level": "A1",
+    "sentences": [
+      "I am very busy right now today.",
+      "We need to leave now or later.",
+      "She is sleeping now in her room."
+    ]
+  },
+  {
+    "row_num": 77,
+    "word": "work",
+    "level": "A1",
+    "sentences": [
+      "I work at a bank in town.",
+      "Does this computer work properly or not?",
+      "We have a lot of work today."
+    ]
+  },
+  {
+    "row_num": 78,
+    "word": "little",
+    "level": "A1",
+    "sentences": [
+      "There is a little cat outside door.",
+      "I have little time to finish this.",
+      "She was a little girl back then."
+    ]
+  },
+  {
+    "row_num": 79,
+    "word": "know",
+    "level": "A1",
+    "sentences": [
+      "I know the answer to this question.",
+      "Do you know where my keys are?",
+      "She doesn't know how to swim yet."
+    ]
+  },
+  {
+    "row_num": 80,
+    "word": "see",
+    "level": "A1",
+    "sentences": [
+      "I can see the mountains from here.",
+      "Did you see that beautiful bird fly?",
+      "Let's go see a movie this weekend."
+    ]
+  },
+  {
+    "row_num": 81,
+    "word": "then",
+    "level": "A1",
+    "sentences": [
+      "First we eat, then we go home.",
+      "I was younger back then in school.",
+      "If you're ready, then let's start."
+    ]
+  },
+  {
+    "row_num": 82,
+    "word": "come",
+    "level": "A1",
+    "sentences": [
+      "Please come to my house for dinner.",
+      "She will come back soon from work.",
+      "Where do you come from originally today?"
+    ]
+  },
+  {
+    "row_num": 83,
+    "word": "say",
+    "level": "A2",
+    "sentences": [
+      "What did you say to her yesterday?",
+      "They say that practice makes you perfect.",
+      "I always say hello to my neighbors."
+    ]
+  },
+  {
+    "row_num": 84,
+    "word": "can",
+    "level": "A1",
+    "sentences": [
+      "I can speak three languages quite fluently.",
+      "Can you help me with this bag?",
+      "She can run very fast for her."
+    ]
+  },
+  {
+    "row_num": 85,
+    "word": "should",
+    "level": "B1",
+    "sentences": [
+      "You should study harder for the exam.",
+      "We should probably leave before it rains.",
+      "Should I bring anything to the party?"
+    ]
+  },
+  {
+    "row_num": 86,
+    "word": "made",
+    "level": "A2",
+    "sentences": [
+      "She made a delicious cake for dessert.",
+      "This chair is made of solid wood.",
+      "He made many mistakes on the test."
+    ]
+  },
+  {
+    "row_num": 87,
+    "word": "did",
+    "level": "A2",
+    "sentences": [
+      "What did you do last weekend exactly?",
+      "She did all her homework before dinner.",
+      "Did they arrive on time this morning?"
+    ]
+  },
+  {
+    "row_num": 88,
+    "word": "look",
+    "level": "A1",
+    "sentences": [
+      "Look at that beautiful sunset over there!",
+      "You look tired after working all day.",
+      "Please look at this picture for moment."
+    ]
+  },
+  {
+    "row_num": 89,
+    "word": "us",
+    "level": "A2",
+    "sentences": [
+      "Please tell us about your exciting trip.",
+      "The teacher gave us homework for weekend.",
+      "Can you help us move this table?"
+    ]
+  },
+  {
+    "row_num": 90,
+    "word": "make",
+    "level": "A1",
+    "sentences": [
+      "I make breakfast every morning for family.",
+      "Can you make me a cup of tea?",
+      "Let's make a plan for the weekend."
+    ]
+  },
+  {
+    "row_num": 91,
+    "word": "such",
+    "level": "B1",
+    "sentences": [
+      "It was such a wonderful surprise party.",
+      "I have never seen such beautiful flowers.",
+      "Why would you say such hurtful things?"
+    ]
+  },
+  {
+    "row_num": 92,
+    "word": "a",
+    "level": "A1",
+    "sentences": [
+      "I saw a dog in the park.",
+      "She is a doctor at the hospital.",
+      "This is a very good book indeed."
+    ]
+  },
+  {
+    "row_num": 93,
+    "word": "before",
+    "level": "A2",
+    "sentences": [
+      "Wash your hands before eating your meal.",
+      "I have seen this movie twice before.",
+      "She arrived before everyone else did today."
+    ]
+  },
+  {
+    "row_num": 94,
+    "word": "must",
+    "level": "B1",
+    "sentences": [
+      "You must wear a seatbelt in car.",
+      "She must be tired after that journey.",
+      "We must finish this project by Friday."
+    ]
+  },
+  {
+    "row_num": 95,
+    "word": "two",
+    "level": "A1",
+    "sentences": [
+      "I have two brothers and one sister.",
+      "The meeting will last for two hours.",
+      "She bought two new dresses for summer."
+    ]
+  },
+  {
+    "row_num": 96,
+    "word": "these",
+    "level": "A1",
+    "sentences": [
+      "These books belong to my younger brother.",
+      "I don't like these shoes very much.",
+      "Are these your keys on the table?"
+    ]
+  },
+  {
+    "row_num": 97,
+    "word": "hand",
+    "level": "A1",
+    "sentences": [
+      "Please raise your hand if you agree.",
+      "She held my hand very tightly then.",
+      "On the other hand, it might work."
+    ]
+  }
+]
